@@ -1,6 +1,6 @@
 ﻿namespace SkyWalking.Domain;
 
-public class Class1
+public class DependencyInjection
 {
 
 }

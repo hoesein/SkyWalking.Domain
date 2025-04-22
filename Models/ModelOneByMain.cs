@@ -1,0 +1,1 @@
+public record ModelOneByMain(string Name, int Age, string Address);
